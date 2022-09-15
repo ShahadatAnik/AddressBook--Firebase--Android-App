@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287477054497",
+    "firebase_url": "https://android-project-ewu-fabin-default-rtdb.firebaseio.com",
+    "project_id": "android-project-ewu-fabin",
+    "storage_bucket": "android-project-ewu-fabin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287477054497:android:d2eaa6b436ac7069d9b760",
+        "android_client_info": {
+          "package_name": "edu.ewubd.addressbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287477054497-lolej53o8b8hs58klrte2mossre7bve1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJ29ORe_oh9NgHSeJWjoxR5ArP4HG_A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287477054497-lolej53o8b8hs58klrte2mossre7bve1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
